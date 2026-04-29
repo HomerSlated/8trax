@@ -1,11 +1,11 @@
 [package]
 name        = "eight-trax"
-version     = "0.1.0"
-edition     = "2021"
-description = "8trax — demoscene host application"
+version     = "0.0.1"
+edition     = "2024"
+description = "CDDA archiver"
 
 [[bin]]
-name = "eight-trax"
+name = "8trax"
 path = "src/main.rs"
 
 [dependencies]
