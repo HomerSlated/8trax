@@ -17,3 +17,5 @@
 # Misc
 /scripts/
 *.bak
+*.lock
+.gitignore
