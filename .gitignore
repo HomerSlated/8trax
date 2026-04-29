@@ -1,0 +1,12 @@
+# Rust build output
+/target/
+
+# Intro — generated files
+/intro/about
+/intro/about.o
+/intro/shader_blob.inc
+
+# Editor
+.vscode/
+*.swp
+*~
