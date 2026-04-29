@@ -13,3 +13,7 @@
 .vscode/
 *.swp
 *~
+
+# Misc
+/scripts/
+*.bak
