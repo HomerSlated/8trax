@@ -2,7 +2,7 @@ NASM      := nasm
 NASMFLAGS := -f elf64
 LD        := ld
 LDFLAGS   := -dynamic-linker /lib64/ld-linux-x86-64.so.2 \
-             -lX11 -lGL -lGLX -lz -lasound -lpthread -lm
+             -lX11 -lGL -lGLX -lz -lasound -lpthread -lc -lm
 SSTRIP    := sstrip
 
 .PHONY: all clean size
