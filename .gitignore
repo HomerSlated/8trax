@@ -6,6 +6,9 @@
 /intro/about.o
 /intro/shader_blob.inc
 
+# Private notes
+/private/
+
 # Editor
 .vscode/
 *.swp
