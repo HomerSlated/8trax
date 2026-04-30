@@ -1,0 +1,20 @@
+# Rust build output
+/target/
+
+# Intro — generated files
+/intro/about
+/intro/about.o
+/intro/shader_blob.inc
+
+# Private notes
+/private/
+
+# Editor
+.vimrc
+.vscode/
+*.swp
+*~
+
+# Misc
+/scripts/
+*.bak
