@@ -22,4 +22,5 @@
 
 # Misc
 /backups/
+/scripts/
 *.bak
