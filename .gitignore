@@ -21,4 +21,5 @@
 .remember/
 
 # Misc
+/backups/
 *.bak
