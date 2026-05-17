@@ -8,11 +8,7 @@ fn main() -> eframe::Result {
             .with_inner_size([900.0, 600.0]),
         ..Default::default()
     };
-    eframe::run_native(
-        "8trax",
-        options,
-        Box::new(|_cc| Ok(Box::new(App::default()))),
-    )
+    eframe::run_native("8trax", options, Box::new(|_cc| Ok(Box::new(App))))
 }
 
 #[derive(Default)]
