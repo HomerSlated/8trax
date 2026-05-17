@@ -16,6 +16,10 @@
 *.swp
 *~
 
+# Claude config
+.claude/
+.remember/
+
 # Misc
 /scripts/
 *.bak
