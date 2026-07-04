@@ -5,6 +5,12 @@
 /intro/about
 /intro/about.o
 /intro/shader_blob.inc
+/intro/shader_full.frag
+/intro/text_data.frag
+/intro/text_blob.inc
+
+# Music workspace
+/music/
 
 # Private notes
 /private/
